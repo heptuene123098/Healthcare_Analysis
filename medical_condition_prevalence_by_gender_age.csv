@@ -1,0 +1,49 @@
+Medical Condition,Age Group,Female,Male
+Arthritis,"Young Adults
+(18-34 years)",16.400000000000002,15.708502024291498
+Arthritis,"Middle-Aged Adults
+(35-49 years)",16.72661870503597,17.305893358278766
+Arthritis,"Older Middle-Aged Adults
+(50-64 years)",15.418894830659536,17.26555652936021
+Arthritis,"Seniors
+(65+ years)",15.776241357636705,17.5
+Asthma,"Young Adults
+(18-34 years)",16.56,17.65182186234818
+Asthma,"Middle-Aged Adults
+(35-49 years)",16.72661870503597,17.96071094480823
+Asthma,"Older Middle-Aged Adults
+(50-64 years)",17.647058823529413,16.476774758983346
+Asthma,"Seniors
+(65+ years)",17.78755499685732,15.945945945945947
+Cancer,"Young Adults
+(18-34 years)",16.32,17.732793522267208
+Cancer,"Middle-Aged Adults
+(35-49 years)",17.89568345323741,14.873713751169317
+Cancer,"Older Middle-Aged Adults
+(50-64 years)",19.340463458110516,15.687992988606487
+Cancer,"Seniors
+(65+ years)",16.781898177247015,17.5
+Diabetes,"Young Adults
+(18-34 years)",16.32,15.465587044534413
+Diabetes,"Middle-Aged Adults
+(35-49 years)",15.467625899280577,15.902712815715622
+Diabetes,"Older Middle-Aged Adults
+(50-64 years)",15.151515151515152,18.054338299737072
+Diabetes,"Seniors
+(65+ years)",17.536140791954747,15.608108108108107
+Hypertension,"Young Adults
+(18-34 years)",18.0,17.48987854251012
+Hypertension,"Middle-Aged Adults
+(35-49 years)",16.007194244604317,19.176800748362957
+Hypertension,"Older Middle-Aged Adults
+(50-64 years)",16.22103386809269,15.86327782646801
+Hypertension,"Seniors
+(65+ years)",15.776241357636705,16.89189189189189
+Obesity,"Young Adults
+(18-34 years)",16.400000000000002,15.951417004048581
+Obesity,"Middle-Aged Adults
+(35-49 years)",17.176258992805753,14.780168381665106
+Obesity,"Older Middle-Aged Adults
+(50-64 years)",16.22103386809269,16.65205959684487
+Obesity,"Seniors
+(65+ years)",16.341923318667504,16.554054054054053
